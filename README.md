@@ -1,2 +1,2 @@
 # Python
-This repo is for simple python codes
+This repo is for simple python codes. 
